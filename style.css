@@ -684,3 +684,7 @@ nav{
     top:240px;
     right: 495px
 }
+.credit{
+    position:absolute;
+    left:5px;
+}
